@@ -1,0 +1,3 @@
+[submodule "projects/exercise-tracker"]
+	path = projects/exercise-tracker
+	url = git@github.com:OZahnitko/exercise-tracker.git
