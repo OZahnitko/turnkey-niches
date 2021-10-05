@@ -1,5 +1,5 @@
 {
-  "packages": ["packages/*", "projects/*", "templates/*"],
+  "packages": ["forks/*", "packages/*", "projects/*", "templates/*"],
   "npmClient": "yarn",
   "version": "independent",
   "useWorkspaces": true

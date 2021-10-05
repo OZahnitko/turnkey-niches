@@ -7,9 +7,16 @@
   "license": "MIT",
   "workspaces": {
     "packages": [
+      "forks/*",
       "packages/*",
       "projects/*",
       "templates/*"
+    ],
+    "nohoist": [
+      "**/electron-builder",
+      "**/electron-builder/**",
+      "**/electron",
+      "**/electron/**"
     ]
   },
   "scripts": {

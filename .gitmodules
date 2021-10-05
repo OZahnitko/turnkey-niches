@@ -4,3 +4,12 @@
 [submodule "projects/fake-nuws"]
 	path = projects/fake-nuws
 	url = git@github.com:OZahnitko/fake-nuws.git
+[submodule "projects/nsf-worker"]
+	path = projects/nsf-worker
+	url = git@github.com:OZahnitko/nsf-worker.git
+[submodule "forks/snippet-box"]
+	path = forks/snippet-box
+	url = https://github.com/pawelmalak/snippet-box.git
+[submodule "projects/my-scripts"]
+	path = projects/my-scripts
+	url = git@github.com:OZahnitko/my-scripts.git
